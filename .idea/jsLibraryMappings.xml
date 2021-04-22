@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{mocha-api/node_modules}" />
+    <file url="PROJECT" libraries="{@types/chai, @types/faker, @types/mocha, @types/node, @types/prettier, mocha-api/node_modules}" />
+  </component>
+</project>
